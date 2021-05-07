@@ -1,9 +1,9 @@
-Package: com.brianvalente.thanosdance
-Name: ThanosDance
+Package: com.d0wn.DokkaebiCall
+Name: DokkaebiCall
 Depends: mobilesubstrate
 Version: 0.1
 Architecture: iphoneos-arm
-Description: Do you love Thanos and Spider-Man? I do!
-Maintainer: Brian Valente
-Author: Brian Valente
+Description: Get called by Dokkaebi!
+Maintainer: d0wn
+Author: d0wn
 Section: Tweaks
