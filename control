@@ -1,9 +1,9 @@
-Package: com.d0wn.DokkaebiCall
+Package: com.d0wn2.DokkaebiCall
 Name: DokkaebiCall
 Depends: mobilesubstrate
 Version: 0.1
 Architecture: iphoneos-arm
 Description: Get called by Dokkaebi!
-Maintainer: d0wn
-Author: d0wn
+Maintainer: d0wn2
+Author: d0wn2
 Section: Tweaks
